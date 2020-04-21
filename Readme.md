@@ -30,7 +30,6 @@
 
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
-
 ###  Martes
 
 :scroll: - [Selectores avanzados, transiciones y animaciones](selectores_avanzados_transiciones_animaciones.md)
@@ -48,7 +47,7 @@
 
 :crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/css-pp-periodico)
 
-:shinto_shrine: - [Thug Life]()
+:shinto_shrine: - [Thug Life](https://github.com/TheBridge-FullStackDeveloper/css-pp-thug-life)
 
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
