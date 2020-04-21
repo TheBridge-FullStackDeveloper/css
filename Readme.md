@@ -47,7 +47,7 @@
 
 :crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/css-pp-periodico)
 
-:shinto_shrine: - [Thug Life](https://github.com/TheBridge-FullStackDeveloper/css-pp-thug-life)
+:shinto_shrine: - [Thug Life](https://github.com/TheBridge-FullStackDeveloper/css-kata-thug-life)
 
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
