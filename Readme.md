@@ -34,7 +34,7 @@
 
 :scroll: - [Selectores avanzados, transiciones y animaciones](selectores_avanzados_transiciones_animaciones.md)
 
-:crossed_swords: - [El nomo ravero]()
+:crossed_swords: - [Los cuentos del ácido](https://github.com/TheBridge-FullStackDeveloper/css-pp-los-cuentos-del-acido)
 
 :shinto_shrine: - [CSS Bento 15-32](https://flukeout.github.io)
 
@@ -56,9 +56,9 @@
 
 :scroll: - [Display](display.md)
 
-:crossed_swords: - [Arte Patrio]()
+:crossed_swords: - [Flexbox Froggy](https://flexboxfroggy.com/#es)
 
-:shinto_shrine: - [Flexbox Froggy](https://flexboxfroggy.com/#es)
+:shinto_shrine: - [Contactos copleros](https://github.com/TheBridge-FullStackDeveloper/css-kata-contactos-copleros)
 
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
@@ -69,6 +69,6 @@
 
 :crossed_swords: - [Crear una página completamente "responsive"](https://github.com/TheBridge-FullStackDeveloper/css-pp-responsive)
 
-:shinto_shrine: - [Imprimir en formato pdf]()
+:shinto_shrine: - [Entre dos mundos](https://github.com/TheBridge-FullStackDeveloper/css-kata-entre-dos-mundos)
 
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
