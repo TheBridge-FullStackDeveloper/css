@@ -45,7 +45,7 @@
 
 :scroll: - [Modelo de cajas, position y variables CSS](box_model_position_var.md)
 
-:crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/css-pp-periodico)
+:crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/css-pp-el-puentecito)
 
 :shinto_shrine: - [Thug Life](https://github.com/TheBridge-FullStackDeveloper/css-kata-thug-life)
 
