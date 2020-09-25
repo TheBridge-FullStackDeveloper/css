@@ -67,7 +67,7 @@
 
 :scroll: - [Mobile first y @media queries](responsive.md)
 
-:crossed_swords: - [Crear una página completamente "responsive"](https://github.com/TheBridge-FullStackDeveloper/css-pp-responsive)
+:crossed_swords: - [Crear una página completamente "responsive" y mobile first](https://github.com/TheBridge-FullStackDeveloper/css-pp-responsive)
 
 :shinto_shrine: - [Entre dos mundos](https://github.com/TheBridge-FullStackDeveloper/css-kata-entre-dos-mundos)
 
