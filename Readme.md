@@ -20,7 +20,8 @@
 
 ## Precurso - Semana CSS
 
-### Lunes
+<!-- ### Lunes -->
+### Selectores y propiedades de texto
 
 :scroll: - [Selectores y propiedades de texto](selectores_propiedades_texto.md)
 
@@ -30,7 +31,8 @@
 
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
-###  Martes
+<!-- ###  Martes -->
+###  Selectores avanzados, transiciones y animaciones
 
 :scroll: - [Selectores avanzados, transiciones y animaciones](selectores_avanzados_transiciones_animaciones.md)
 
@@ -41,7 +43,8 @@
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
 
-### Miércoles
+<!-- ### Miércoles -->
+### Modelo de cajas, position y variables CSS
 
 :scroll: - [Modelo de cajas, position y variables CSS](box_model_position_var.md)
 
@@ -52,7 +55,8 @@
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
 
-### Jueves
+<!-- ### Jueves -->
+### Display
 
 :scroll: - [Display](display.md)
 
@@ -63,7 +67,8 @@
 :european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/proyectos-pagina-personal)
 
 
-### Viernes
+<!-- ### Viernes -->
+### Mobile first y @media queries
 
 :scroll: - [Mobile first y @media queries](responsive.md)
 
