@@ -29,7 +29,6 @@
 
 :shinto_shrine: - [CSS Bento 1-14](https://flukeout.github.io)
 
-:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/ejercicio_pagina_personal)
 
 <!-- ###  Martes -->
 ###  Selectores avanzados, transiciones y animaciones
@@ -40,7 +39,6 @@
 
 :shinto_shrine: - [CSS Bento 15-32](https://flukeout.github.io)
 
-:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/ejercicio_pagina_personal)
 
 
 <!-- ### Miércoles -->
@@ -52,7 +50,6 @@
 
 :shinto_shrine: - [Thug Life](https://github.com/TheBridge-FullStackDeveloper/css-kata-thug-life)
 
-:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/ejercicio_pagina_personal)
 
 
 <!-- ### Jueves -->
@@ -64,7 +61,6 @@
 
 :shinto_shrine: - [Contactos copleros](https://github.com/TheBridge-FullStackDeveloper/css-kata-contactos-copleros)
 
-:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/ejercicio_pagina_personal)
 
 
 <!-- ### Viernes -->
@@ -75,5 +71,3 @@
 :crossed_swords: - [Crear una página completamente "responsive" y mobile first](https://github.com/TheBridge-FullStackDeveloper/css-pp-responsive)
 
 :shinto_shrine: - [Entre dos mundos](https://github.com/TheBridge-FullStackDeveloper/css-kata-entre-dos-mundos)
-
-:european_castle: - [Página personal](https://github.com/TheBridge-FullStackDeveloper/ejercicio_pagina_personal)
