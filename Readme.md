@@ -10,8 +10,6 @@
 
 :shinto_shrine: - Kata
 
-:european_castle: - Proyecto
-
 :gear: - Instalación
 
 ## Requisitos
